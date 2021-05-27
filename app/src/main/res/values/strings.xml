@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<resources>
+    <string name="app_name">UnitTestsApp</string>
+
+    <string name="type_text">Type text</string>
+
+    <string name="display_text">Display Text</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="open_main_fragment">Open Main Fragment</string>
+
+    <string name="type_first_number">type first number</string>
+
+    <string name="type_second_number">type second number</string>
+
+</resources>
